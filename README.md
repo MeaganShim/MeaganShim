@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Meagan Shimonov
 - 👀 I’m interested in machine learning algorithms and specifically NLP Libraries
 - 🌱 I’m ghave learned a lot about different types of data structures and graphing algorithms 
-- 💞️ I’m looking for an Internship for Winter 2022
+- 💞️ I’m looking for an Internship for Winter 2022!
 - 📫 Reach me at mshimono@uwaterloo.ca
 
 <!---

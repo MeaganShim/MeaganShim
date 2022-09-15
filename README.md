@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Meagan Shimonov
-- 👀 I’m interested in machine learning algorithms and specifically NLP Libraries and data science
+- 👀 I’m interested in machine learning algorithms and specifically NLP Libraries, data science, and stock trading algorithms
 - 🌱 I’m have learned a lot about different types of data structures and graphing algorithms 
 - 💞️ Currently seeking internship opportunities for Winter 2023!
 - 📫 Reach me at mshimono@uwaterloo.ca
